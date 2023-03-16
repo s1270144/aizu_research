@@ -7,7 +7,7 @@ See my research for more details. [My research](https://github.com/s1270144/aizu
 ## Author
 
 [@Shuto Homma](https://www.facebook.com/profile.php?id=100090890865720&sk=videos)
-mail to: mhomma0334@gmail.com
+mail to: s1270144@u-aizu.ac.jp
 
 ## Reference
 
